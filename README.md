@@ -25,6 +25,6 @@ I am going to make a music app that plays Xylophone sounds. For every Beethoven 
   - Engine • revision d1bc06f032
   - Tools • Dart 2.9.2
 
-# Dicee App
+# Xylophone App
 
 ![Xylophone](https://github.com/ParthMangi/Xylophone/blob/main/example.giff?raw=true)
