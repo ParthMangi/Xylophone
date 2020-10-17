@@ -17,3 +17,14 @@ I am going to make a music app that plays Xylophone sounds. For every Beethoven 
 - How to generate repeated user interface Widgets.
 - How to use Dart functions that can take input arguments as well as return an output.
 - Dart arrow syntax for writing one line functions.
+
+## Last Run
+ 
+  - Flutter 1.20.4 • channel unknown • unknown source
+  - Framework • revision fba99f6cf9 (5 weeks ago) • 2020-09-14 15:32:52 -0700
+  - Engine • revision d1bc06f032
+  - Tools • Dart 2.9.2
+
+# Dicee App
+
+![magic_8_bball](https://github.com/ParthMangi/magic_8_ball/blob/main/example.gif?raw=true)
