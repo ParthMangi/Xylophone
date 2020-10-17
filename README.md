@@ -27,4 +27,4 @@ I am going to make a music app that plays Xylophone sounds. For every Beethoven 
 
 # Dicee App
 
-![magic_8_bball](https://github.com/ParthMangi/magic_8_ball/blob/main/example.gif?raw=true)
+![Xylophone](https://github.com/ParthMangi/Xylophone/blob/main/example.giff?raw=true)
