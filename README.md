@@ -27,4 +27,4 @@ I am going to make a music app that plays Xylophone sounds. For every Beethoven 
 
 # Xylophone App
 
-![Xylophone](https://github.com/ParthMangi/Xylophone/blob/main/example.giff?raw=true)
+![Xylophone](https://github.com/ParthMangi/Xylophone/blob/main/example.gif?raw=true)
